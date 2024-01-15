@@ -3,6 +3,14 @@ return {
   { "rebelot/kanagawa.nvim" },
   { "Mofiqul/dracula.nvim" },
   { "rose-pine/neovim" },
+  { "sainnhe/gruvbox-material" },
+  { "tanvirtin/monokai.nvim" },
+  {
+    "navarasu/onedark.nvim",
+    opts = {
+      style = "cool",
+    },
+  },
 
   -- Configure LazyVim to load rose-pine on startup
   {
