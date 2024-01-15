@@ -9,14 +9,12 @@ return {
     "LazyVim/LazyVim",
     opts = {
       colorscheme = "rose-pine-moon",
+
+      -- Uncomment the below if you want LazyVim to load tokyonight
+      -- colorscheme = "tokyonight",
+
+      -- Uncomment the below if you want LazyVim to load tokyonight
+      -- colorscheme = "catppuccin",
     },
   },
-
-  -- Uncomment the below if you want LazyVim to load tokyonight
-  -- {
-  --   "LazyVim/LazyVim",
-  --   opts = {
-  --     colorscheme = "tokyonight",
-  --   },
-  -- },
 }
