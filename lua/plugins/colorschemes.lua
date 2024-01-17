@@ -12,7 +12,7 @@ return {
     },
   },
 
-  -- Configure LazyVim to load rose-pine on startup
+  -- Configure LazyVim to load the below colorscheme on startup
   {
     "LazyVim/LazyVim",
     opts = {
