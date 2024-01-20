@@ -8,6 +8,10 @@ return {
     },
   },
   config = function()
-    require("oil").setup()
+    require("oil").setup({
+      keymaps = {
+        ["<BS>"] = "actions.parent",
+      },
+    })
   end,
 }
