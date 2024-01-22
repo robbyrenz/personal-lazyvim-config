@@ -12,5 +12,11 @@ return {
         winblend = 0,
       },
     },
+    keys = {
+      -- disabling the keymap for showing lsp document symbols in order to use the LspSaga one instead
+      { "<leader>ss", false },
+      -- adding a substitute keymap for lsp document symbols
+      { "<leader>cs", "<cmd>Telescope lsp_document_symbols<cr>", desc = "Goto Symbol (Telescope)" },
+    },
   },
 }
