@@ -16,7 +16,10 @@ return {
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "rose-pine-moon",
+      colorscheme = "gruvbox-material",
+
+      -- Uncomment the below if you want LazyVim to load rose-pine-moon
+      -- colorscheme = "rose-pine-moon",
 
       -- Uncomment the below if you want LazyVim to load tokyonight
       -- colorscheme = "tokyonight",
