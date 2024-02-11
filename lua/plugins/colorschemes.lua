@@ -11,6 +11,7 @@ return {
       style = "cool",
     },
   },
+  { "sainnhe/sonokai" },
 
   -- Configure LazyVim to load the below colorscheme on startup
   {
