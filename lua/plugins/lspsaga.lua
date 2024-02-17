@@ -18,6 +18,9 @@ return {
       vim.keymap.set("n", "gp", "<cmd>Lspsaga peek_definition<CR>", { desc = "Peek Definition" }),
       vim.keymap.set("n", "K", "<cmd>Lspsaga hover_doc<CR>", { desc = "Hover" }),
       vim.keymap.set("n", "gh", "<cmd>Lspsaga finder<CR>", { desc = "Definitions, References and Implementations" }),
+      lightbulb = {
+        enable = false,
+      },
     })
   end,
 }
