@@ -12,6 +12,9 @@ return {
       keymaps = {
         ["<BS>"] = "actions.parent",
       },
+      win_options = {
+        signcolumn = "number",
+      },
     })
   end,
 }
