@@ -19,6 +19,18 @@ return {
       priority = 1000,
     },
   },
+  {
+    "folke/tokyonight.nvim",
+    lazy = false,
+    priority = 1000,
+    opts = {},
+  },
+  {
+    "catppuccin/nvim",
+    lazy = false,
+    name = "catppuccin",
+    priority = 1000,
+  },
 
   -- Configure LazyVim to load the below colorscheme on startup
   {
@@ -34,7 +46,10 @@ return {
       -- colorscheme = "tokyonight",
 
       -- Uncomment the below if you want LazyVim to load catppuccin-frappe on startup
-      colorscheme = "catppuccin-frappe",
+      -- colorscheme = "catppuccin-frappe",
+
+      -- Uncomment the below if you want LazyVim to load tokyonight-storm
+      colorscheme = "tokyonight-storm",
     },
   },
 }
