@@ -66,6 +66,12 @@ return {
     name = "catppuccin",
     priority = 1000,
   },
+  {
+    "uloco/bluloco.nvim",
+    lazy = false,
+    priority = 1000,
+    dependencies = { "rktjmp/lush.nvim" },
+  },
 
   -- Configure LazyVim to load the below colorscheme on startup
   {
