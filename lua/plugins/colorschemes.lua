@@ -75,6 +75,9 @@ return {
   {
     "Mofiqul/vscode.nvim",
   },
+  {
+    "marko-cerovac/material.nvim",
+  },
 
   -- Configure LazyVim to load the below colorscheme on startup
   {
