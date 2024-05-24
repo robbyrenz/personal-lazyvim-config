@@ -72,6 +72,9 @@ return {
     priority = 1000,
     dependencies = { "rktjmp/lush.nvim" },
   },
+  {
+    "Mofiqul/vscode.nvim",
+  },
 
   -- Configure LazyVim to load the below colorscheme on startup
   {
