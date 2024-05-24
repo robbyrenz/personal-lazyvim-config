@@ -25,6 +25,7 @@ return {
     priority = 1000,
     opts = {},
     config = function()
+      -- I got the below config from "https://github.com/folke/tokyonight.nvim?tab=readme-ov-file#borderless-telescope-example"
       require("tokyonight").setup({
         on_highlights = function(hl, c)
           local prompt = "#2d3149"
