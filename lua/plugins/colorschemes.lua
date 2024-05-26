@@ -83,19 +83,6 @@ return {
   {
     "LazyVim/LazyVim",
     opts = {
-      -- Uncomment the below if you want LazyVim to load gruvbox-material on startup
-      -- colorscheme = "gruvbox-material",
-
-      -- Uncomment the below if you want LazyVim to load rose-pine-moon on startup
-      -- colorscheme = "rose-pine-moon",
-
-      -- Uncomment the below if you want LazyVim to load tokyonight
-      -- colorscheme = "tokyonight",
-
-      -- Uncomment the below if you want LazyVim to load catppuccin-frappe on startup
-      -- colorscheme = "catppuccin-frappe",
-
-      -- Uncomment the below if you want LazyVim to load tokyonight-storm
       colorscheme = "tokyonight-storm",
     },
   },
