@@ -55,7 +55,7 @@
   "sonokai": { "branch": "master", "commit": "16fa31a410183ce945e58d834a74f161a2dce5aa" },
   "telescope.nvim": { "branch": "master", "commit": "bfcc7d5c6f12209139f175e6123a7b7de6d9c18a" },
   "todo-comments.nvim": { "branch": "main", "commit": "51e10f838e84b4756c16311d0b1ef0972c6482d2" },
-  "tokyonight.nvim": { "branch": "main", "commit": "0c511d7cac30407f52223b0816a8697c1fcccca6" },
+  "tokyonight.nvim": { "branch": "main", "commit": "de376a61f1a14b904773eaf14c8104e91bc6f65d" },
   "trouble.nvim": { "branch": "main", "commit": "e5d0e04121c662ce29190a57dd03655d43c59d44" },
   "ts-comments.nvim": { "branch": "main", "commit": "c075b4ee00f6e111b44bf99a8cfd5a4cfce9258a" },
   "venv-selector.nvim": { "branch": "regexp", "commit": "9cbb76e10abed4fff32d015472e7996fd999c996" },
