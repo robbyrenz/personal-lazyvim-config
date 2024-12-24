@@ -1,6 +1,13 @@
 -- I created the first text image with the help of the `asciiart` website: [https://www.asciiart.eu/text-to-ascii-art](https://www.asciiart.eu/text-to-ascii-art),
 -- while the crocodile image was taken from [https://ascii.co.uk/art/crocodile](https://ascii.co.uk/art/crocodile)
 
+-- disabling this file as snacks.nvim has its own dashboard plugin now, and its now the default one in LazyVim
+-- ref: https://github.com/folke/snacks.nvim/blob/main/docs/dashboard.md
+-- TODO: remove this file later once you are comfortable with the new dashboard plugin
+if true then
+  return {}
+end
+
 return {
   "nvimdev/dashboard-nvim",
   event = "VimEnter",

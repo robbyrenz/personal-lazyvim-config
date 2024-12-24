@@ -1,3 +1,10 @@
+-- disabling my custom Telescope configuration because as of version 14.0.0 of LazyVim, fzf-lua is now the default one, and I would like to start using it :)
+-- ref: https://github.com/LazyVim/LazyVim/releases/tag/v14.0.0
+-- TODO: remove this file later once you are comfortable with fzf-lua
+if true then
+  return {}
+end
+
 return {
   {
     "nvim-telescope/telescope.nvim",
