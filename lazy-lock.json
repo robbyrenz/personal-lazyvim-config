@@ -6,7 +6,7 @@
   "catppuccin": { "branch": "main", "commit": "30fa4d122d9b22ad8b2e0ab1b533c8c26c4dde86" },
   "clangd_extensions.nvim": { "branch": "main", "commit": "b67cc417d9020fb4b83d46662351b4d16894905e" },
   "conform.nvim": { "branch": "master", "commit": "b4aab989db276993ea5dcb78872be494ce546521" },
-  "cyberdream.nvim": { "branch": "main", "commit": "8407e80415aebd6b052773d751dda7cd9cfc6835" },
+  "cyberdream.nvim": { "branch": "main", "commit": "caf4f5e57f8d5e0bb75fe98f4f67965b1fb3326c" },
   "dracula.nvim": { "branch": "main", "commit": "df528c869b09fbdc7578e6ccc7ff6faf44a2046d" },
   "flash.nvim": { "branch": "main", "commit": "3c942666f115e2811e959eabbdd361a025db8b63" },
   "friendly-snippets": { "branch": "main", "commit": "572f5660cf05f8cd8834e096d7b4c921ba18e175" },

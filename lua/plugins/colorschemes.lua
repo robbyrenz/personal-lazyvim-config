@@ -14,10 +14,8 @@ return {
   { "sainnhe/sonokai" },
   {
     "scottmckendry/cyberdream.nvim",
-    opts = {
-      lazy = false,
-      priority = 1000,
-    },
+    lazy = false,
+    priority = 1000,
   },
   {
     "folke/tokyonight.nvim",
